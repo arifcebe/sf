@@ -3,7 +3,7 @@ $cfg['dbtype'] = "mysql"; //mysql, pgsql
 $cfg['dbhost'] = "127.0.0.1";
 $cfg['dbuser'] = "root";
 $cfg['dbpass'] = "";
-$cfg['dbname'] = "tantraz";
+$cfg['dbname'] = "sf";
 $cfg['dbport'] = "3306";
 
 //Application Configuration
@@ -25,9 +25,6 @@ $cfg['user_default'] = "nobody";
 
 //page default
 $cfg['default_page'] = "homeViewHomeJson";
-
-//url_type
-$cfg['application_type'] = "modular"; //modular,cms
 
 //list paging default
 $cfg['itemViewed'] = 20;
